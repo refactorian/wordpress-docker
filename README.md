@@ -40,7 +40,3 @@
     - `docker compose restart`
 - Run a command inside a container
     - `docker compose exec [container] [command]`
-
-# TODO
-- Improve environment 
-- Add more containers
